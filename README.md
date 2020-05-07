@@ -8,7 +8,7 @@ Medium : https://medium.com/@cbasemaster/uv-light-influences-covid-19-activity-i
 
 
 
-Before running each file, please download dataset:
+Before running each file, please download dataset and save in data folder:
 
 Covid-19 pandemic growth:
 
