@@ -36,7 +36,7 @@ Please modify, predict and dig more fruitful knowledge, data mining as you wish
 
 If you find helpful, please cite this paper : 
 
-UV light influences covid-19 activity through big data: trade offs between northern subtropical, tropical, and southern subtropical countries
-Novanto Yudistira, Sutiman Bambang Sumitro, Alberth Nahas, Nelly Florida Riama
-medRxiv 2020.04.30.20086983; doi: https://doi.org/10.1101/2020.04.30.20086983
+UV light influences covid-19 activity through big data: trade offs between northern subtropical, tropical, and southern subtropical countries <br />
+Novanto Yudistira, Sutiman Bambang Sumitro, Alberth Nahas, Nelly Florida Riama <br />
+medRxiv 2020.04.30.20086983;  <br />doi: https://doi.org/10.1101/2020.04.30.20086983
 
