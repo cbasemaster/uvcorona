@@ -1,6 +1,6 @@
 # uvcorona
 
-This is data analytic of relationship between COVID-19 pandemic growth, UV index, and pollution
+#### This is data analytic of relationship between COVID-19 pandemic growth, UV index, and pollution
 
 From paper : https://www.medrxiv.org/content/10.1101/2020.04.30.20086983v1
 
@@ -8,7 +8,7 @@ Medium : https://medium.com/@cbasemaster/uv-light-influences-covid-19-activity-i
 
 
 
-Before running each file, please download dataset and save in data folder:
+#### Before running each file, please download dataset and save in data folder:
 
 Covid-19 pandemic growth:
 
@@ -25,7 +25,7 @@ https://aqicn.org/data-platform/register/
 
 
 
-Please run files in this order:
+#### Please run files in this order:
 
 run uv_read, run corona.py, run air quality.py
 
@@ -34,9 +34,10 @@ run uv_read, run corona.py, run air quality.py
 
 Please modify, predict and dig more fruitful knowledge, data mining as you wish
 
-If you find helpful, please cite this paper : 
-
-UV light influences covid-19 activity through big data: trade offs between northern subtropical, tropical, and southern subtropical countries <br />
-Novanto Yudistira, Sutiman Bambang Sumitro, Alberth Nahas, Nelly Florida Riama <br />
+#### If you find helpful, please cite this paper : 
+```go
+UV light influences covid-19 activity through big data: trade offs between northern subtropical, tropical, and southern subtropical countries
+Novanto Yudistira, Sutiman Bambang Sumitro, Alberth Nahas, Nelly Florida Riama
 medRxiv 2020.04.30.20086983;  <br />doi: https://doi.org/10.1101/2020.04.30.20086983
+```
 
